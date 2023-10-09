@@ -23,8 +23,8 @@ footer {
     background-color: #79AC78;
     color: white;
     margin: 0px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
     width: 100%;
     flex: none;
 }
@@ -54,7 +54,7 @@ nav {
     justify-content: end;
     align-items: center;
     padding-left: 20px;
-    padding-right: 200px;
+    padding-right: 20px;
 }
 
 
